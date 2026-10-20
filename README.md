@@ -1,2 +1,3 @@
 NEXT_PUBLIC_SUPABASE_URL=https://qkpyeqinynmmzxpentif.supabase.co
 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_qcvUNqFnKbajxfVnCFM16A_H9VJy27bpm install @supabase/supabase-js @supabase/ssrsb_secret_Z4emqaPir_WflbMGJtXf8w__1XPYptp
+https://qkpyeqinynmmzxpentif.supabase.co/rest/v1/
